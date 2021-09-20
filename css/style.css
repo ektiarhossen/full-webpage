@@ -1,0 +1,38 @@
+*{margin: 0; padding: 0;}
+body{font-family: arial; font-size: 16px;}
+.maine{width: 960px; margin: 25px auto; display: block; overflow: hidden; background-color:#D9DCF2; }
+
+.header{width: 960px;}
+.header img{height: 100px; width: 600px;}
+
+.manu{ overflow: hidden; margin-bottom: 20px; }
+.manu ul{margin: 0; padding: 0;list-style: none;}
+.manu ul li{float: left; border-right: 1px solid white;}
+.manu  ul li a{text-decoration: none; display: block; 
+	padding: 10px 74px;background-color: green;}
+.manu ul li a:hover{background-color: red;}
+.news{background:#282923; color:#22A4CD;}
+
+
+.slideatall{margin-top: 20px; margin-bottom: 10px;}
+
+.leifside{width: 260px;margin-right: 30px; float:left; padding: 20px; background: #F11730}
+.leifside ul{ list-style: none;}
+.leifside ul li{padding: 4px; list-style: none; border-bottom: 1px solid #ddd;}
+.leifside ul li a{text-decoration: none; display: block;}
+
+
+ .midel{ width: 630px; float: left;  }
+
+.maine_contend{width: 960px; overflow: hidden; margin-top: 20px;}
+.content{width: 600px; float:left;}
+.content h2{}
+.content p{}
+.sidebar{width: 300px; margin-left: 30px; float: right;}
+.sidebar ul{list-style: none;}
+.sidebar ul li{}
+.sidebar ul li a{text-decoration: none; display: block;}
+.sidebar ul li a:hover{}
+
+
+.footer{margin-top: 10px; background-color: #282923; padding: 10px 15px; text-align: center;}
